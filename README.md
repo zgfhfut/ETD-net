@@ -59,7 +59,7 @@ Please download the test set from the above link for evaluation.
 3. Adjust Sample Range (Optional)
 
    The variable k in the loop controls which samples to detect:
-   for k in tqdm(range(1, 434), position=0):
+   for k in tqdm(range(1, 501), position=0):
    You can modify the range according to your actual number of samples.
 
 4. Run
