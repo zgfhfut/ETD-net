@@ -59,6 +59,6 @@ for k in tqdm(range(1, 501), position=0):
 
     except Exception as e:
 
-        print(f"处理文件 {filename} 时出错: {str(e)}")
+        print(f"Failed to process file {filename}: {str(e)}")
 
         continue
