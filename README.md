@@ -44,6 +44,8 @@ The test dataset is available at: https://www.scidb.cn/s/bmu2ie
 
 Please download the test set from the above link for evaluation.
 
+Note: The dataset has been updated to include additional samples for supplementary experiments (15 real recapturing samples, 400 AI-spoofed splicing samples, and samples for extreme reverberation and noise conditions). All these are included in the same link above.
+
 ## How to Run the Test
 
 1. Prepare Input Data
